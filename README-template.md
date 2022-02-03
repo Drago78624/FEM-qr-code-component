@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Drago78624/FEM-qr-code-component)
-- Live Site URL: (mystifying-carson-008e62.netlify.app)
+- Solution URL: [Solution Url](https://github.com/Drago78624/FEM-qr-code-component)
+- Live Site URL: [Live Site Url](mystifying-carson-008e62.netlify.app)
 
 ## My process
 
